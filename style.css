@@ -1,0 +1,77 @@
+body {
+  background-color: greenyellow;
+}
+
+h1 {
+  text-align: center;
+  margin: 10px;
+  height: 50px;
+  width: 100%;
+  margin-left: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+}
+
+#color {
+  display: inline-block;
+  margin: 10px;
+}
+
+#title {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pixel {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border: 1px solid black;
+  margin: 0px;
+  display: inline-block;
+}
+
+.color{
+  width: 50px;
+  height: 50px;
+}
+
+.preto {
+  background-color: black;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.vermelho {
+  background-color: red;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.veude {
+  background-color: green;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.roxo {
+  background-color: purple;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.color {
+  border-radius: 10%;
+}
+
+#pixel-board {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.line {
+  margin-bottom: -4px;
+}
+
+#color-palette {
+  text-align: center;
+}
